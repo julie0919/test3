@@ -3,6 +3,16 @@ plugins {
     id 'eclipse'
 }
 
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8';
+} 
+
+eclipse {
+    project {
+        name = "test3"
+    }
+}
+
 repositories {
     jcenter()
 }
