@@ -12,6 +12,7 @@ public class App {
     System.out.println(new App().getGreeting());
 
     System.out.println("abcdef");
+    System.out.println("ghijklmnop");
     System.out.println("살려줘요");
     System.out.println("제 이름은 줄리입니다. 줄리에가 아니라");
   }
