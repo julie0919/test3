@@ -10,9 +10,9 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
+    System.out.println("아 더럽게힘드네");
     System.out.println("이 코드는 영국으로부터 시작되었으며, 옛날옛날에 자바를 사용하는 꼬마가"
         + "살고있었어요.");
-    
     System.out.println("하하핳....");
     System.out.println("하하핳2....");
     System.out.println("하하핳3....");
