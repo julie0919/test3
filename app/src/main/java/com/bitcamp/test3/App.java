@@ -13,6 +13,7 @@ public class App {
     System.out.println("이게 머선129");
     System.out.println("abcdef");
     System.out.println("아아아아아아아아");
+    System.out.println("으아아아아");
     System.out.println("ghijklmnop");
     System.out.println("qrstuvwxyz");
     System.out.println("푸쉬 한번하기 너무 힘들어요. 계속 충돌나요ㅕ");
