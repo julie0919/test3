@@ -10,13 +10,14 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    
+
     System.out.println("하하핳....");
     System.out.println("하하핳2....");
     System.out.println("하하핳3....");
-    
+
     System.out.println("abcdef");
     System.out.println("아아아아아아아아");
+    System.out.println("아아아아ㅏㅇ아아아아아아아아");
     System.out.println("으아아아아");
     System.out.println("ghijklmnop");
     System.out.println("qrstuvwxyz");
