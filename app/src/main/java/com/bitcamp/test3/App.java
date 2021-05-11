@@ -16,5 +16,6 @@ public class App {
     System.out.println("살려줘요");
     System.out.println("제 이름은 줄리입니다. 줄리에가 아니라");
     System.out.println("김승원입니다");
+    System.out.println("배고파요");
   }
 }
