@@ -10,7 +10,8 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("��¿�");
+    System.out.println("이 코드는 영국으로부터 시작되었으며, 옛날옛날에 자바를 사용하는 꼬마가"
+        + "살고있었어요.");
 
     System.out.println("abcdef");
     System.out.println("푸쉬 한번하기 너무 힘들어요. 계속 충돌나요ㅕ");
