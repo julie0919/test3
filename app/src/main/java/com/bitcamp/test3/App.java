@@ -10,10 +10,9 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-<<<<<<< HEAD
-    System.out.println("��¿�");
-=======
+    System.out.println("��¿�");
+    System.out.println("살려줘요");
     System.out.println("제 이름은 줄리입니다. 줄리에가 아니라");
->>>>>>> d859127b0650fe68d35d4de66b1eceb9383b53b9
+    System.out.println("김승원입니다");
   }
 }
