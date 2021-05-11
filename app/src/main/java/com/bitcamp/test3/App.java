@@ -24,5 +24,6 @@ public class App {
 
     System.out.println("이게 머선129");
     System.out.println("배고파요");
+    System.out.println("커밋커밋");
   }
 }
