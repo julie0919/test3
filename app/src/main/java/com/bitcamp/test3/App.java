@@ -23,5 +23,6 @@ public class App {
     System.out.println("김승원입니다");
 
     System.out.println("이게 머선129");
+    System.out.println("배고파요");
   }
 }
